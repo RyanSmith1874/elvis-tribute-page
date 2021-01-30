@@ -1,0 +1,91 @@
+body {
+    background-color: #f7f9fb;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Kanit', sans-serif;
+    color: crimson;
+    text-shadow: 3px 3px black;
+    
+
+}
+
+li {
+    margin: 20px auto;
+}
+
+p {
+    font-style: oblique;  
+    
+}
+#main {
+    text-align: center;
+    display: block;
+    list-style-position: inside;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+#tribute-info {
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img-div {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 20px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    border-radius: 50px;
+    border: solid 0.5px rgb(212, 202, 202);
+}
+
+img {
+   max-width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   width: 1100px;
+   
+   
+}
+
+#elvis-info {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 50px;
+}
+
+#quote {
+    margin-top: 40px;
+    margin-bottom: 60px;
+    color: crimson;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: crimson;
+}
+#tribute-link:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+h3 {
+    font-style: italic;
+    font-family: 'Kanit', sans-serif;
+    color: crimson;
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+}
